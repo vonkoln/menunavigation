@@ -68,7 +68,7 @@ body
 {
  transform: translateY(-35px);
 }
-.navigation ul li.active a .text
+.navigation ul li a .text
 {
     position: absolute;
     color: var(--clr);
